@@ -18,8 +18,8 @@
 <!-- 교육사항 시작 -->
 <div>
   <h3><b> 🌱: Projects </b></h3>
-  <h5> ⦁ 🧑‍🤝‍🧑성공하자: 교내 학생들의 스펙 향상을 위한 서비스 앱 </h5>
-  <h5> ⦁ 📆나모: 교내 학생들의 스펙 향상을 위한 서비스 앱 </h5>
+  <h5> ⦁ 🧑‍🤝‍🧑 성공하자: 교내 학생들의 스펙 향상을 위한 서비스 앱 </h5>
+  <h5> ⦁ 📆 나모: 한 눈에 자신의 일정을 기록하고 다른 사람들과 일정을 공유할 수 있는 앱 </h5>
 </div>
 </br>  
 <!-- 교육사항 끝 -->
@@ -27,11 +27,10 @@
 
 <!-- 연락처 시작 -->
 ### 📫 How to reach me
-<!-- - 링크드인: https://www.linkedin.com/in/moonhy7 -->
-- 포트폴리오: https://spotty-macaroni-115.notion.site/d38ee94211e34c00964a75961a0d4237
-- 이력서: https://drive.google.com/file/d/1ELoJM-sUGDQsZAJgvzK_5ZspCIkd0N6BCNG8--pPWQg/view
-- 기술블로그: https://moonhy7.tistory.com
-- 이메일: moonhy7@naver.com
+- 포트폴리오:
+- 이력서: 
+- 기술블로그: 
+- 이메일: 
 <!-- 연락처 끝 -->
 
 
