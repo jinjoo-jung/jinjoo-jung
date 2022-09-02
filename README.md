@@ -13,7 +13,7 @@
 #### 📫 How to reach me
 - 포트폴리오:
 - 이력서: 
-- 기술블로그: 
+- 기술블로그: https://alrece-01.tistory.com/
 - 이메일: 
 
 
