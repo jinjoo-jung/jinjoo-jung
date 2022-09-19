@@ -5,7 +5,7 @@
   - IT 연합 프리랜서 동아리 UMC 2nd 수료
 
 #### 🙋‍♀️ Experience 
-
+  - 2021 소프트웨어 경진대회
 #### 🌱 Projects
   - 🧑‍🤝‍🧑 성공하자: 교내 학생들의 스펙 향상을 위한 앱 : [성공하자](https://github.com/jinjoo-jung/SSWU2021_Project)
   -  📆 나모: 한 눈에 자신의 일정을 기록하고 다른 사람들과 일정을 공유할 수 있는 앱 : [나모](https://www.notion.so/3e4f5d5c0f0c47b39f5f41b4c206b620)
