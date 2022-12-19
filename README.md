@@ -2,7 +2,10 @@
 
 #### 📚 Education 
   - 성신여대 정보시스템공학과 20학번
-  - IT 연합 프리랜서 동아리 UMC 2nd 수료
+  - IT 연합 프리랜서 동아리 UMC 2nd Server 수료
+  - IT 연합 프리랜서 동아리 UMC 3nd Android
+  - Google Developers Student Clubs 4nd Member
+  
 
  #### 🙋‍♀️ Experience 
   - 2021 소프트웨어 경진대회
