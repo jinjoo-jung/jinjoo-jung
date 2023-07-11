@@ -1,4 +1,6 @@
 # Let me introduce myself
+![jinjoo-jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjoo-jung)
+
 
 <!--#### 📚 Education 
   - 성신여대 정보시스템공학과 20학번
@@ -20,5 +22,3 @@
 - 이메일: 
 
 --!>
-
-![jinjoo-jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjoo-jung)
