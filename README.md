@@ -1,24 +1,57 @@
-# Let me introduce myself
-![jinjoo-jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjoo-jung)
+
+<h1 align="left">Hi, I'm Jinjoo 👋</h1>
+<p align="left">
+  꾸준히 배우고 실험하는 프론트엔드 개발자 정진주입니다.
+</p>
+
+---
+
+### 📌 Profile
+- 성신여자대학교 **정보시스템공학과** (2020.03 ~ )
+- **E-mail**: wjdwlswn23@naver.com  
+- **GitHub**: https://github.com/jinjoo-jung  
+- **Blog**: https://velog.io/@jinjoooo/posts
+
+---
+
+### 💼 Career
+- **주식회사 업폴 | Front-End Developer** (2024.02 ~ 현재)
+
+---
+
+### ⚒️ Experiences
+- **7th Ne(o)rdinary (CMC × UMC) Hackathon – 우수상** (2024.11)
+- **UMC 6th Web 파트장** (2024.03 ~ 2024.08)
+- **패스트캠퍼스 × 야놀자 프론트엔드 부트캠프** (2023.07 ~ 2024.02)
+- **Google Developers Student Clubs 4기 Member** (2022.09 ~ 2023.08)
+- **UMC 2nd Server 수료** (2022.03 ~ 2022.08)
+- **UMC 3rd Android 수료** (2022.09 ~ 2023.02)
+- **성신여자대학교 2021 소프트웨어 경진대회 – 장려상** (2021.08)
+
+---
+
+### 🛠️ 기술 Stack
+<p align="left">
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TanStack%20Query%20(React%20Query)-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=fff&style=for-the-badge" />
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/SSE-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zustand-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge" />
+</p>
 
 
-<!--#### 📚 Education 
-  - 성신여대 정보시스템공학과 20학번
-  - IT 연합 프리랜서 동아리 UMC 2nd Server 수료
-  - IT 연합 프리랜서 동아리 UMC 3nd Android
-  - Google Developers Student Clubs 4nd Member
-  
+<!-- 헤더 & 배지 -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinjoo-jung" alt="jinjoo-jung's GitHub stats" />
+</p>
 
- #### 🙋‍♀️ Experience 
-  - 2021 소프트웨어 경진대회
- 🌱 Projects
-  - 🧑‍🤝‍🧑 성공하자: 교내 학생들의 스펙 향상을 위한 앱 : [성공하자](https://github.com/jinjoo-jung/SSWU2021_Project)
-  -  📆 나모: 한 눈에 자신의 일정을 기록하고 다른 사람들과 일정을 공유할 수 있는 앱 : [나모](https://www.notion.so/3e4f5d5c0f0c47b39f5f41b4c206b620)
 
-#### 📫 How to reach me
-- 포트폴리오:
-- 이력서: 
-- 기술블로그: 
-- 이메일: 
-
---!>
