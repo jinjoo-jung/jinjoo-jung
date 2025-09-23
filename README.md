@@ -7,7 +7,7 @@
 ---
 
 ### 📌 Profile
-- 성신여자대학교 **정보시스템공학과 (AI 융합학부) ** (2020.03 ~ 2026.02 )
+- 성신여자대학교 **정보시스템공학과 (AI 융합학부)** (2020.03 ~ 2026.02 )
 - **E-mail**: wjdwlswn23@naver.com  
 - **GitHub**: https://github.com/jinjoo-jung  
 - **Blog**: https://velog.io/@jinjoooo/posts
