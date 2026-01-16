@@ -47,8 +47,5 @@
 
 
 <!-- 헤더 & 배지 -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinjoo-jung" alt="jinjoo-jung's GitHub stats" />
-</p>
 
 
