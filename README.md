@@ -11,7 +11,7 @@
 ---
 
 ### 💼 Career
-- **주식회사 업폴 | Front-End Developer** (2024.02 ~ 현재)
+- **주식회사 업폴 | Product Engineer** (2024.02 ~ 현재)
 
 ---
 
